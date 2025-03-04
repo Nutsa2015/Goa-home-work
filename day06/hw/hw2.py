@@ -1,0 +1,6 @@
+Name = input('name')
+sname = input('srename')
+age = input('age')
+home = input('home sity')
+hoabe = input('hobises')
+print(Name + sname + age + home + hoabe )
