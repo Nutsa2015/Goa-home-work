@@ -1,0 +1,6 @@
+name = input("name")
+sname = input("sname")
+age = int(input("age"))
+hite = float( input("hite"))
+color = input("color")
+print(name,sname,age,hite,color)

@@ -1,0 +1,2 @@
+#explicity-პირდაპირი
+#implicity-არაპირდაპირი
