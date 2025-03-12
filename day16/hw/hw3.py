@@ -1,0 +1,11 @@
+print(5==5)
+print(9>0)
+print(4==5)
+print(75==766)
+print(11234567890>761)
+
+print(True and True)
+print(True or False)
+print(False and False)
+print(False or False)
+print(False or True)

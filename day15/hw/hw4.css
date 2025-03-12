@@ -1,0 +1,9 @@
+a {
+    border: palevioletred solid 2px;
+    text-decoration: none;
+    background-color: rgb(212, 75, 121);
+}
+input {
+    background-color: rgb(130, 247, 241);
+    color:rgb(47, 40, 141) ;
+}

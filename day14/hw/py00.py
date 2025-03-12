@@ -1,0 +1,1 @@
+#algoriTmi -  davalebis shesrleba miznis misaxwevad
