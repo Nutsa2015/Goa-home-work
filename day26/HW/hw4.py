@@ -1,0 +1,1 @@
+#print (),input(),int(),float(),len(),bool(),min(),max(),str(),type(),
